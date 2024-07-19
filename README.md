@@ -18,12 +18,12 @@ This project is a basic calculator implemented using HTML and CSS.
 ## Installation and Usage
 
 
-1. Clone the repository:
+1.  **Clone the repository**:
    ```bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-1
+   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
 
 
-# Week-2 Myntra Clone
+# Week-2 Amazon  Clone
 
 This project is a clone of the Myntra website, implemented using HTML and CSS for the user interface. It aims to replicate the main features and styling of Myntra's online fashion store.
 
@@ -31,15 +31,14 @@ This project is a clone of the Myntra website, implemented using HTML and CSS fo
 
 ## Features
 
-- **Homepage**: Replicates Myntra's homepage layout.
+- **Homepage**: Replicates Amazon homepage layout.
 - **Product Listings**: Displays products with images, names, and prices.
 - **Responsive Design**: Ensures the website is usable on different screen sizes.
-- **CSS Styling**: Custom CSS to mimic Myntra's visual style.
+- **CSS Styling**: Custom CSS to mimic Amazon visual style.
 
 ## Output
-<img width="389" alt="image" src="https://github.com/user-attachments/assets/68ea1c1c-adbe-43e3-9344-e2d7adddaf27">
-<img width="386" alt="image" src="https://github.com/user-attachments/assets/37bf0f42-8875-447d-b45f-6ab871ef8ad1">
-<img width="386" alt="image" src="https://github.com/user-attachments/assets/dc32d0e0-0240-4d1c-aeb8-52857d8f1cb4">
+
+<img width="1438" alt="Screenshot 2024-07-19 at 10 54 18 AM" src="https://github.com/user-attachments/assets/4cf0353c-7f8a-41d3-ac5b-d04389692776">
 
 
 
@@ -66,7 +65,8 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
 
 ## output
 
-<img width="330" alt="image" src="https://github.com/user-attachments/assets/0854e976-950c-4fe8-a729-2eca4caa323e">
+<img width="788" alt="Screenshot 2024-07-19 at 10 57 25 AM" src="https://github.com/user-attachments/assets/ee5634d1-3f11-4b80-b6f9-aa3088a0ba43">
+
 
 
 
@@ -77,8 +77,8 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
  https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-3
 
 
-# Week-4 Connect-4 Game
-This project is a browser-based implementation of the classic Connect-4 game using HTML, CSS, and JavaScript. Connect-4 is a two-player connection game in which the players take turns dropping colored discs from the top into a vertically suspended grid. The objective of the game is to connect four of one's own discs vertically, horizontally, or diagonally before the opponent.
+# Week-4 MAZE Game
+This project is a browser-based implementation of the classic maze game using HTML, CSS, and JavaScript. maze game is a r connection game in which the players take turns dropping colored discs from the top into a vertically suspended grid. The objective of the game is to connect four of one's own discs vertically, horizontally, or diagonally before the opponent.
 
 ## Features
 
@@ -89,7 +89,7 @@ This project is a browser-based implementation of the classic Connect-4 game usi
 
 ## Output
 
-<img width="341" alt="image" src="https://github.com/user-attachments/assets/4f3a61cf-87df-4cf1-a8e6-cc35aca6acf7">
+<img width="602" alt="Screenshot 2024-07-19 at 11 06 45 AM" src="https://github.com/user-attachments/assets/89763467-66a3-4a62-8cde-1af7c2c5757f">
 
 
 
