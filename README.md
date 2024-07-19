@@ -11,21 +11,18 @@ This project is a basic calculator implemented using HTML and CSS.
 - ⁠**Clear Button**: Allows the user to clear the input for starting a new calculation.
 
 ## Output
-
 <img width="246" alt="image" src="https://github.com/user-attachments/assets/dd720635-9d94-4e63-a7a3-1f270d31d3fa">
-
 
 ## Installation and Usage
 
-
 1.  **Clone the repository**:
-   ```bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
+    ```bash
+      https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-1
 
 
-# Week-2 Amazon  Clone
+# Week-2 Amazon Clone
 
-This project is a clone of the Myntra website, implemented using HTML and CSS for the user interface. It aims to replicate the main features and styling of Myntra's online fashion store.
+This project is a clone of the amazon website, implemented using HTML and CSS for the user interface. It aims to replicate the main features and styling of Myntra's online fashion store.
 
 
 
@@ -49,7 +46,7 @@ This project is a clone of the Myntra website, implemented using HTML and CSS fo
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
+      https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
 
 
 # Week-3 To-Do List
@@ -73,8 +70,8 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
 ## Installation and Usage
 
 1. **Clone the repository**:
-   ```bash
- https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-3
+    ```bash
+    https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-3
 
 
 # Week-4 MAZE Game
@@ -82,10 +79,14 @@ This project is a browser-based implementation of the classic maze game using HT
 
 ## Features
 
-- **Two-Player Gameplay**: Play against a friend locally on the same device.
-- **Dynamic Board**: Visual representation of the game board with interactive dropping discs.
-- **Win Detection**: Automatically detects and highlights winning moves.
-- **Restart Game**: Option to restart the game after a win or draw.
+### Game Objective
+The objective of Week-4 MAZE Game is to navigate through a series of mazes, solve puzzles, and find the exit while collecting items and avoiding obstacles.
+
+### Key Features
+- **Dynamic Maze Generation:** Every game session features dynamically generated mazes for a unique experience.
+- **Player Movement:** Control your character with intuitive arrow keys or WASD controls.
+- **Challenges and Obstacles:** Encounter locked doors, hidden traps, and puzzles that block your path.
+- **Items and Power-ups:** Collect keys to unlock doors, find health potions to replenish stamina, and discover hidden treasures for bonus points.
 
 ## Output
 
@@ -96,6 +97,6 @@ This project is a browser-based implementation of the classic maze game using HT
 ## Installation and Usage
 
 1. **Clone the repository**:
-   ```bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-4
+      ```bash
+       https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-4
 
