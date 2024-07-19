@@ -11,7 +11,7 @@ This project is a basic calculator implemented using HTML and CSS.
 - ⁠**Clear Button**: Allows the user to clear the input for starting a new calculation.
 
 ## Output
-<img width="246" alt="image" src="https://github.com/user-attachments/assets/dd720635-9d94-4e63-a7a3-1f270d31d3fa">
+<img width="445" alt="Screenshot 2024-07-19 at 2 43 40 PM" src="https://github.com/user-attachments/assets/c4e8e274-592d-4125-a452-527c4dc7942d">
 
 ## Installation and Usage
 
@@ -19,12 +19,9 @@ This project is a basic calculator implemented using HTML and CSS.
     ```bash
     https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-1
 
-
 # Week-2 Amazon Clone
 
 This project is a clone of the amazon website, implemented using HTML and CSS for the user interface. It aims to replicate the main features and styling of Myntra's online fashion store.
-
-
 
 ## Features
 
@@ -37,17 +34,11 @@ This project is a clone of the amazon website, implemented using HTML and CSS fo
 
 <img width="1438" alt="Screenshot 2024-07-19 at 10 54 18 AM" src="https://github.com/user-attachments/assets/4cf0353c-7f8a-41d3-ac5b-d04389692776">
 
-
-
-
-
-
 ## Installation and Usage
 
 1. **Clone the repository**:
    ```bash
    https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
-
 
 # Week-3 To-Do List
 
@@ -64,15 +55,11 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
 
 <img width="788" alt="Screenshot 2024-07-19 at 10 57 25 AM" src="https://github.com/user-attachments/assets/ee5634d1-3f11-4b80-b6f9-aa3088a0ba43">
 
-
-
-
 ## Installation and Usage
 
 1. **Clone the repository**:
     ```bash
     https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-3
-
 
 # Week-4 Maze Game
 This project is a browser-based implementation of the classic maze game using HTML, CSS, and JavaScript. Maze game is a r connection game in which the players take turns dropping colored discs from the top into a vertically suspended grid. The objective of the game is to connect four of one's own discs vertically, horizontally, or diagonally before the opponent.
@@ -91,8 +78,6 @@ The objective of Maze Game is to navigate through a series of mazes, solve puzzl
 ## Output
 
 <img width="602" alt="Screenshot 2024-07-19 at 11 06 45 AM" src="https://github.com/user-attachments/assets/89763467-66a3-4a62-8cde-1af7c2c5757f">
-
-
 
 ## Installation and Usage
 
