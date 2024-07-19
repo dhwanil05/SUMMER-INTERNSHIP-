@@ -17,7 +17,7 @@ This project is a basic calculator implemented using HTML and CSS.
 
 1.  **Clone the repository**:
     ```bash
-      https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-1
+    https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-1
 
 
 # Week-2 Amazon Clone
@@ -46,7 +46,7 @@ This project is a clone of the amazon website, implemented using HTML and CSS fo
 
 1. **Clone the repository**:
    ```bash
-      https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
+   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
 
 
 # Week-3 To-Do List
@@ -74,13 +74,13 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
     https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-3
 
 
-# Week-4 MAZE Game
-This project is a browser-based implementation of the classic maze game using HTML, CSS, and JavaScript. maze game is a r connection game in which the players take turns dropping colored discs from the top into a vertically suspended grid. The objective of the game is to connect four of one's own discs vertically, horizontally, or diagonally before the opponent.
+# Week-4 Maze Game
+This project is a browser-based implementation of the classic maze game using HTML, CSS, and JavaScript. Maze game is a r connection game in which the players take turns dropping colored discs from the top into a vertically suspended grid. The objective of the game is to connect four of one's own discs vertically, horizontally, or diagonally before the opponent.
 
 ## Features
 
 ### Game Objective
-The objective of Week-4 MAZE Game is to navigate through a series of mazes, solve puzzles, and find the exit while collecting items and avoiding obstacles.
+The objective of Maze Game is to navigate through a series of mazes, solve puzzles, and find the exit while collecting items and avoiding obstacles.
 
 ### Key Features
 - **Dynamic Maze Generation:** Every game session features dynamically generated mazes for a unique experience.
